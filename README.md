@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Utpal Kumar  
 
-<!--
-**UtpalEc/UtpalEc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech (ECE) at CIT Kokrajhar  
+🔬 Focus: **Semiconductors • VLSI • Nanoelectronics**  
+☀️ Research: **Perovskite Solar Cells & Optical Modulators**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Highlights  
+- Research Intern: **IIT Delhi, MNNIT Allahabad, ONGC Dehradun, IOCL Guwahati**  
+- 📄 Published: *Advanced Theory & Simulations (Wiley)*  
+- 🎖️ Distinction: IISc CeNSE Winter School  
+- ⚙️ Skills: Verilog HDL, SoC Design, SCAPS-1D, CASTEP/DFT, MATLAB, C  
+
+---
+
+## 🚀 Projects  
+- LPG Gas Leakage Detector (without microcontroller)  
+- Mach–Zehnder Modulator Simulation (MATLAB/Simulink)  
+- Lead-Free Perovskite Solar Cells (SCAPS-1D)  
+    
+
+---
+
+## 🤝 Collaboration & Opportunities  
+I’m open to collaborations in:  
+- Semiconductor research & **VLSI design**  
+- **Perovskite solar cells & nanoelectronics**  
+- Optical communication & modulators  
+
+📩 **Reach Me:**  
+- Email: u22ece1048@cit.ac.in  
+- LinkedIn: [https://github.com/UtpalEc/UtpalEc/edit/main/README.md](www.linkedin.com/in/utpal-kumar-7b1792278)  

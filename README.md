@@ -30,4 +30,4 @@ I’m open to collaborations in:
 
 📩 **Reach Me:**  
 - Email: u22ece1048@cit.ac.in  
-- LinkedIn: [https://github.com/UtpalEc/UtpalEc/edit/main/README.md](www.linkedin.com/in/utpal-kumar-7b1792278)  
+- LinkedIn: (www.linkedin.com/in/utpal-kumar-7b1792278)  

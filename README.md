@@ -29,5 +29,5 @@ I’m open to collaborations in:
 - Optical communication & modulators  
 
 📩 **Reach Me:**  
-- Email: u22ece1048@cit.ac.in  
+- Email: utpal6207@gmail.com 
 - LinkedIn: (www.linkedin.com/in/utpal-kumar-7b1792278)  

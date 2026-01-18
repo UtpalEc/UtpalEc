@@ -2,15 +2,15 @@
 
 🎓 Final-year B.Tech (ECE) at CIT Kokrajhar  
 🔬 Focus: **Semiconductors • VLSI • Nanoelectronics**  
-☀️ Research: **Perovskite Solar Cells & Optical Modulators**  
+☀️ Research: **Perovskite Solar Cells, Silicon Photonics, Digital Electronics & Optical Modulators**  
 
 ---
 
 ## 🔎 Highlights  
-- Research Intern: **IIT Delhi, MNNIT Allahabad, ONGC Dehradun, IOCL Guwahati**  
+- Research Intern: **IIT Delhi, IIT Guwahati, MNNIT Allahabad, ONGC Dehradun, IOCL Guwahati**  
 - 📄 Published: *Advanced Theory & Simulations (Wiley)*  
 - 🎖️ Distinction: IISc CeNSE Winter School  
-- ⚙️ Skills: Verilog HDL, SoC Design, SCAPS-1D, CASTEP/DFT, MATLAB, C  
+- ⚙️ Skills: Verilog HDL, SoC Design, SCAPS-1D, CASTEP/DFT, MATLAB & LT spice.  
 
 ---
 
